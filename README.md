@@ -5,7 +5,7 @@ Application, providing functionalities such as joining, searching, modifying, an
    profiles and providing functionalities such as joining, searching, modifying, and leaving the network
 
 2. Applied object-oriented programming principles to manage user profiles and used arrays as the core data structure,
-   increasing efficiency by 300%
+   increasing efficiency by 150%
 
 
 # Explanation
